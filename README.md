@@ -128,24 +128,24 @@
   * 相关产品
     * http://www.zxin.net.cn/product/ProductIntroduce.aspx?pid=3650
 
-* 文章
-  * http://www.zreading.cn/archives/1861.html
-  * http://www.williamlong.info/archives/2176.html
-  * http://www.kmcenter.org/html/tianzhigang/201301/06-14531.html
+  * 文章
+    * http://www.zreading.cn/archives/1861.html
+    * http://www.williamlong.info/archives/2176.html
+    * http://www.kmcenter.org/html/tianzhigang/201301/06-14531.html
 
-* 开源项目
+  * 开源项目
 
 思维导图（dot），wiki（Tiki），全文检索（Lucene），自然语言处理，智能交互（输入输出）。knowledgebase builder，Let's Chat 是一个类似 Slack 的团队聊天软件，马克飞象，Hackpad 是一个基于 Web 的实时 Wiki 系统。 ECharts是一款开源、功能强大的数据可视化产品，ConceptNet是一个语义网，Wikidsmart为融合是一个开源的语义wiki引擎使用zAgile语义框架和本体使智能集成与其他工具和应用程序。NuPIC 的运作接近于人脑，“当模式变化的时候，它会忘掉旧模式，记忆新模式”。OpenCog 是一个人工智能和人工总体智能框架（AGI），OpenCog 的认知算法都是个体自身的创新，但是总体架构是坚持认知协同作用原则的。Soar是当前同领域内较为先进和成熟且广为认可的认知架构之一，代表着认知架构研究的最高水平。ACT-R是一种认知行为的体系结构，是关于人类认知机制的理论模型。Sirius 是基于语音和视觉的智能个人助理。ILIAS是一套基于Web的学习管理系统.提供课程管理,邮件,即时对话,论坛,团体协作,文件共享,写作工具,考试系统,个人桌面。Vuvuzela 是一个消息通讯系统，可以保护消息的内容和消息元数据的私密性。 Mesos是Apache下的开源分布式资源管理框架,它被称为是分布式系统的内核。 AIKIF （人工智能知识信息框架）。 Protégé，是一个史丹佛大学开发的本体编辑和知识获取软件。PPMessage - 皮皮消息，即插即用，在线客服，移动应用内即时通讯。UIMA 是非结构化信息管理体系结构，在字处理文档、电子邮件、视频和其他非结构化信息中搜索特定的文本甚至概念。从而发现、组织和传送有用的知识给客户。Infovore 是一个 map/reduce 框架，用来处理大量的 RDF 数据集，注入 Freebase 和 DBpedia，基于 Hadoop 构建。 Kowari 是一个用 Java 编写的非SQL数据库系统，用来存储 RDF 信息，提供一个轻量级、高可伸缩、事务安全的存储环境， RDF 是一个框架，用来描述网络资源。 The knowledge map library is the core component for Metacademy's interactive knowledge map, e.g. metacademy graph demo。protocolbuffer(以下简称PB)是google 的一种数据交换的格式，它独立于语言，独立于平台。 graphviz是贝尔实验室开发的一个开源的工具包，它使用一个特定的DSL(领域特定语言):dot作为脚本语言。ASN.1抽象语法标记（Abstract Syntax Notation One） ASN.1是一种 ISO/ITU-T 标准，描述了一种对数据进行表示、编码、传输和解码的数据格式。知识交换格式（英文：Knowledge Interchange Format，KIF）是一种面向计算机的语言，用于在不同的计算机程序之间交换知识。
 
-* http://blog.csdn.net/gx19862005/article/details/46442521
-* http://deeplearning.net/software_links/
-* https://github.com/hankcs/HanLP
-* 全球最精准自然语言解析器 SyntaxNethttps://github.com/tensorflow/models
-* NLP开源项目http://www.oschina.net/project/tag/305/nlp
-* 200行Python代码实现感知机词性标注器 http://www.hankcs.com/nlp/averaged-perceptron-tagger.html
-* FastText是Facebook开发的一款快速文本分类器,提供简单而高效的文本分类和表征学习的方法,性能比肩深度学习而且速度更快。
+  * http://blog.csdn.net/gx19862005/article/details/46442521
+  * http://deeplearning.net/software_links/
+  * https://github.com/hankcs/HanLP
+  * 全球最精准自然语言解析器 SyntaxNethttps://github.com/tensorflow/models
+  * NLP开源项目http://www.oschina.net/project/tag/305/nlp
+  * 200行Python代码实现感知机词性标注器 http://www.hankcs.com/nlp/averaged-perceptron-tagger.html
+  * FastText是Facebook开发的一款快速文本分类器,提供简单而高效的文本分类和表征学习的方法,性能比肩深度学习而且速度更快。
 
-* 书籍
+  * 书籍
 《多语自然语言处理》《知识系统工程》《知识大融通》《人工智能》《认知心理学》《本体建模与Web知识发现》《机器学习》《多米尼克记忆》《金字塔原理》《思维导图使用手册》
 
 
@@ -229,4 +229,4 @@
 29. http://growth.ren/
 30. http://impress.github.io/impress.js/#/bored
 
-> 千里之行始于足下、不积跬步无以致千里。君子生非异业也，善假于物也！
+> *千里之行始于足下、不积跬步无以致千里。君子生非异业也，善假于物也！*
