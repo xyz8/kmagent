@@ -1,0 +1,7 @@
+*.out
+*.aux
+*.log
+*.gz
+*.zip
+temp-notsync/
+0 *
