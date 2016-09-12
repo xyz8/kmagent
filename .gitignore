@@ -5,3 +5,4 @@
 *.zip
 temp-notsync/
 0 *
+.vscode
