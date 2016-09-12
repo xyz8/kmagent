@@ -53,7 +53,6 @@
 * **战略**：人类计算（社群+智能助理，人机协同）：协同积累知识，学习是为了管理整合知识、积累元知识元方法、探索知识及智能本质、自省认知学习能力，技术储备，人才吸引，形成高效协同机制、规范统一基础及原则，从0到1、量变到质变的迭代，知识能力横向扩展纵向突破，大道至简、以人为本、从农村包围城市！知识需求项目问题共同利益驱动！学以致用！
 * 重点在于产品的目的价值意义战略的认可：以人为本从知识管理到人工智能，巨大社会价值。
 
-
 ## 理论
 
 元理论，复杂系统科学，元按规则关联导致混沌展现模式涌现智能，活性、目的性、能动性及与环境交互。递归迭代。以有限支持无限，不变应万变。五度空间、时空层次维度。显性化、结构化、标准化、流程化、自动化、智能化、游戏化、训练内化。理论完善、工具支持、社群协同！
@@ -78,7 +77,6 @@
 > 极简智能：最深刻的思考，最精简的知识，最智能的工具，最高效的协同！  
 > 需求、开放思考想象、功能模块、分布式智能、语义交互、钢铁侠的贾维斯、你最需要的功能。Design thinking!  
 
-
 * **产品设计**
 
 > 开发过程、过程改进、项目管理 。产品定位、初步理论业务建模、需求开发（整体功能） 、设计原则、架构分析设计、功能路线、技术路线、基本交互过程、类似产品。
@@ -102,7 +100,6 @@
   * 统一结构、递归迭代、基本原则、自省涌现，自学习完善、术语结构更新、推理预测决策。发挥能动性。
   * 融合：博大精深、规则自由、模式混沌、确定不确定、原则策略、有限无限、灵活固定、精确模糊、定制量产、统计推理、归纳演绎、抽象具体、对与错、辩证统一，物极必反，过犹不及、五度空间、正反长短、显隐、量变质变、时域频域、模拟数字、相对绝对...。
   * 元按规则关联导致混沌展现模式涌现智能，统一知识能力结构，元=整体，迭代递归。不确定性、混沌模糊、迭代渐进
-
 
 * **开发过程**
 > Rup、架构基线、敏捷、迭代、测试驱动 、4+1视图、业务建模、需求分析、
@@ -166,7 +163,7 @@
 
 ## 商业模式
 
-> 满足需求解决问题，干活的人而非用户形成市场、卖的是价值观信念（SaaS，平台、连接、接口、反向。目标共赢、2B收费、2C免费、实业（生产反馈））快递公司通过送快递来赚钱；网络公司通过点击率来赚钱；通信公司通过收话费赚钱；超市通过平台和仓储来赚钱等等。只要有赚钱的地儿，就有商业模式存在。商业推动、维持项目可持续发展！
+> 满足需求解决问题，干活的人而非用户形成市场、卖的是价值观信念（SaaS，平台、连接、接口、反向。目标共赢、ToB收费、ToC免费、实业（生产反馈））快递公司通过送快递来赚钱；网络公司通过点击率来赚钱；通信公司通过收话费赚钱；超市通过平台和仓储来赚钱等等。只要有赚钱的地儿，就有商业模式存在。商业推动、维持项目可持续发展！
 
 
 * 极简商业计划书：
@@ -174,14 +171,9 @@
 **初步智能理论；开发智能知识助理工具；社群协同完善验证理论；模拟人类智能、完善知识库；跨学科融合；新生产力及关系；革新各行业；物质精神丰富、自由平等幸福；未来世界。**
 
 * 商业模式是创业者创意，商业创意来自于机会的丰富和逻辑化，并有可能最终演变为商业模式。其形成的逻辑是：机会是经由创造性资源组合传递更明确的市场需求的可能性, 是未明确的市场需求或者未被利用的资源或者能力。准确并差异化的创意（商业概念）逐渐成熟最终演变为完善的商业模式，从而形成一个将市场需求与资源结合起来的系统。
-* 商业模式要素及其关系的概念性工具，用以阐明某个特定实体的商业逻辑。它描述了公司所能为客户提供的价值以及公司的内部结构、合作伙伴网络和关系资本等用以实现（创造、推销和交付）这一价值并产生可持续盈利收入的要素。规划设计、证明、实践、完善形成闭环正反馈。
-* 商业模式新解：是一个企业满足消费者需求的系统，这个系统组织管理企业的各种资源（资金、原材料、人力资源、作业方式、销售方式、信息、品牌和知识产权、企业所处的环境、创新力，又称输入变量），形成能够提供消费者无法自力而必须购买的产品和服务（输出变量），因而具有自己能复制但不被别人复制的特性。提供别人无法提供的价值（或相对更好并有效营销）。满足需求问题。
-* 一个商业模式，是对一个组织如何行使其功能的描述，是对其主要活动的提纲挈领的概括。它定义了公司的客户、产品和服务。它还提供了有关公司如何组织以及创收和盈利的信息。商业模式与（公司）战略一起，主导了公司的主要决策。商业模式还描述了公司的产品、服务、客户市场以及业务流程。
-* 就是证明能赚钱。
-* 商业模式是一个将市场需求与资源结合起来的系统， 是对一个组织如何行使其功能的描述，是对其主要活动的提纲挈领的概括。组织管理各种资源（资金、原材料、人力资源、作业方式、销售方式、信息、品牌和知识产权、企业所处的环境、创新力（输入），提供消费者必须的产品和服务（产出），提供别人无法提供的价值（或相对更好并有效营销）。它还提供了有关公司如何组织以及创收和盈利的信息。它定义了公司的客户价值，产品和服务客户市场以及业务流程、客户、内部结构、合作伙伴网络、关系资本等用以实现（创造、推销和交付）这一价值并产生可持续盈利收入的要素。 商业模式与战略一起，主导了公司的主要决策。
-* 第一章 基本情况篇第二章 公司管理第三章 行业情况第四章 研发第五章 产品运营（给用户）第六章 市场方案第七章 财务状况第八章 风险第九章 融资计划第十章 进度表
-* 客户价值主张，资源和生产过程，盈利公式
-* 规划设计、证明、实践、完善形成闭环正反馈。
+* **满足需求解决问题，规划设计、证明、实践、完善形成闭环正反馈，客户价值主张，资源和生产过程，盈利公式。**。
+* 商业模式是一个将市场需求与资源结合起来的系统， 是对一个组织如何行使其功能的描述，是对其主要活动的提纲挈领的概括，商业模式要素及其关系的概念性工具，用以阐明某个特定实体的商业逻辑。组织管理各种资源（资金、原材料、人力资源、作业方式、销售方式、信息、品牌和知识产权、企业所处的环境、创新力）（输入），提供消费者必须的产品和服务（产出），提供别人无法提供的价值（或相对更好并有效营销）。它还提供了有关公司如何组织以及创收和盈利的信息。它定义了公司的客户价值，产品和服务客户市场以及业务流程、客户、内部结构、合作伙伴网络、关系资本等用以实现（创造、推销和交付）这一价值并产生可持续盈利收入的要素。 商业模式与战略一起，主导了公司的主要决策。
+* 第一章 基本情况篇第二章 公司管理第三章 行业情况第四章 研发第五章 产品运营（给用户）第六章 市场方案第七章 财务状况第八章 风险第九章 融资计划第十章 进度表。
 
     赛道：行业背景、目标用户、市场痛点、规模趋势
     产品：产品详情、商业模式、竞品分析、竞争优势
@@ -198,35 +190,35 @@
 ## 产品体验
 
 1. http://www1.xi.12333sh.gov.cn/labour/#
-2. http://www.tuling123.com/experience/exp_virtual_robot.jhtml?nav=exp
-3. http://i.xiaoi.com/
-4. http://www.nlpcn.org/demo.jsp
-5. http://www.ltp-cloud.com/demo/
-6. http://osp.voicecloud.cn/index.php/default/quicktest/index
-7. http://dev.hivoice.cn/exp_center/nlu/nlu.jsp
-8. http://www.wolframalpha.com/
-9. http://www.sobot.com/production/intelligentRobot.html
-10. http://www.4paradigm.com/homepage.html
-11. http://www.horizon-robotics.com/index_cn.html
-12. http://www.unisound.com/
-13. http://www.intsci.ac.cn
-14. http://www.hankcs.com/nlp/
-15. http://www.insun.hit.edu.cn/
-16. http://www.buildyourmap.com/
-17. https://shimo.im/
-18. http://www.shareditor.com/
-19. http://www.52nlp.cn/
-20. http://www.xiaoi.com/
-21. https://www.sobot.com/
-22. http://www.tuling123.com/
-23. http://www.longyu.cn/index/IndexKnowedgeElement.aspx
-24. https://www.shurenyun.com/
-25. https://yiqixie.com/
-26. https://github.com/wxyyxc1992/Coder-Knowledge-Graph
-27. https://metacademy.org/   知识图谱
-28. https://inventaire.io/
-29. http://growth.ren/
-30. http://impress.github.io/impress.js/#/bored
+1. http://www.tuling123.com/experience/exp_virtual_robot.jhtml?nav=exp
+1. http://i.xiaoi.com/
+1. http://www.nlpcn.org/demo.jsp
+1. http://www.ltp-cloud.com/demo/
+1. http://osp.voicecloud.cn/index.php/default/quicktest/index
+1. http://dev.hivoice.cn/exp_center/nlu/nlu.jsp
+1. http://www.wolframalpha.com/
+1. http://www.sobot.com/production/intelligentRobot.html
+1. http://www.4paradigm.com/homepage.html
+1. http://www.horizon-robotics.com/index_cn.html
+1. http://www.unisound.com/
+1. http://www.intsci.ac.cn
+1. http://www.hankcs.com/nlp/
+1. http://www.insun.hit.edu.cn/
+1. http://www.buildyourmap.com/
+1. https://yiqixie.com/
+1. https://shimo.im/
+1. http://www.shareditor.com/
+1. http://www.52nlp.cn/
+1. http://www.xiaoi.com/
+1. https://www.sobot.com/
+1. http://www.tuling123.com/
+1. http://www.longyu.cn/index/IndexKnowedgeElement.aspx
+1. https://www.shurenyun.com/
+1. https://github.com/wxyyxc1992/Coder-Knowledge-Graph
+1. https://metacademy.org/   知识图谱
+1. https://inventaire.io/
+1. http://growth.ren/
+1. http://impress.github.io/impress.js/#/bored
 
 ## 更多参考
  
