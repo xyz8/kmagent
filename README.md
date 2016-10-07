@@ -173,8 +173,8 @@
 
 期待与您的合作！
 
-标识 Logo：[![LOGO](../KiMi/1-core-基础核心/logo-小.png "源计划")](http://kmagent.com)
-标记 mark: [![mark](../KiMi/1-core-基础核心/mark-标记小.png "源计划标记")](http://kmagent.com)
+标识 Logo：[![LOGO](https://github.com/GYGit/KiMi/blob/master/1-core-基础核心/logo-小.png "源计划")](http://kmagent.com)
+标记 mark: [![mark](https://github.com/GYGit/KiMi/blob/master/1-core-基础核心/mark-标记小.png "源计划标记")](http://kmagent.com)
 
 [![license](https://i.creativecommons.org/l/by-sa/3.0/cn/88x31.png "许可协议")](http://creativecommons.org/licenses/by-sa/3.0/cn/)  
 本作品采用 CC-BY-SA [知识共享署名-相同方式共享 3.0 中国大陆许可协议](http://creativecommons.org/licenses/by-sa/3.0/cn/) 进行许可。
